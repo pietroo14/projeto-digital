@@ -27,3 +27,33 @@
         a:hover{
             background-color: red;
         }
+
+
+    #lamborghini{
+        background-color: black;
+        color: white;
+    }
+
+    #lamborghini:hover{
+        background-color: #FFC000;
+
+    }
+
+    #ferrari{
+        background-color: black;
+        color: white;
+    }
+
+
+    #ferrari:hover{
+        background-color:  #E10600;
+    }
+
+    #github{
+        background-color: black;
+        color: white;
+    }
+
+    #github:hover{
+        background-color: #6E7681; ;
+    }
